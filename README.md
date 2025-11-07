@@ -1,4 +1,4 @@
-# 객체 감지 및 측정 시스템
+# 객체 정보 추출 시스템
 RGB-D 카메라를 사용하여 실시간으로 객체를 감지하고 크기를 측정하는 시스템입니다.  
 시연 영상 : https://youtu.be/aHTMQaz42Nk    
 <img width="758" height="611" alt="image" src="https://github.com/user-attachments/assets/5a40bf54-d1a9-427b-8ef9-7b173ce898e3" />  
